@@ -1,5 +1,5 @@
 
-# 💻 Projeto: Monitoramento de Batimento Cardíaco
+# 💻 Projeto Monitoramento de Batimento Cardíaco
 
 Este projeto busca armazenar os dados de batimento cardíaco do público que estiver assistindo a fórmula E ao vivo, através do relógio feito com arduino, e possibilitar as pessoas a enviar ideias inovadoras para melhorar os carros da Mahindra (ganhando recompensas caso a ideia chame a atenção da empresa). Esta implementação em python é usada como um banco de dados, realizando o armazenamento e tratamento de informações para apresentar ao usuário no site da SustenRace. Com isso, demostrariamos que, contrário ao que é falado, a fórmula E trás muita emoção para quem assiste.
 

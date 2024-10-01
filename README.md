@@ -79,13 +79,4 @@ Após instalar os softwares necessários:
 
 <img src="grafico_bpm_sustenrace.png"/>
 
-## 🧑🏼‍🤝‍🧑🏻 Autores 
-| Nome        | RM                                                       |
-| ----------------- | ---------------------------------------------------------------- |
-| Ali Andrea Mamani Molle                | 558052                                                   |
-| Bruna da Costa Candeias                 | 558938                                              |
-| Laura Souza de Carvalho                 | 556320                                              |
-| Queren da Silva Prates                 | 558769                                            |
-| Sofia Fernandes                | 554873                                                     |
-
 **💚 SustenRace: Emoção sem prejudicar o planeta.**
